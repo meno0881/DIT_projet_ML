@@ -35,6 +35,8 @@ DIT-projet-ML/
 
 # application streamlit 
 
-lien: ditprojetml-pr9tbbn7ndvqtjwicoe8ko
+lien: ditprojetml-kvnbihyzww8an6wqdfcsxu
+
+
 
 └── README.md
